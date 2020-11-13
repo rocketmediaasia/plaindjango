@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'aen#c)1$w+6dpru^y7n2*nio)=d0a*ctp0ndl&3@(=mi8q!2u3'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['127.0.0.1','rocketdjango.herokuapp.com']
 
 
 # Application definition
