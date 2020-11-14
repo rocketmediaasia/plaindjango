@@ -25,8 +25,8 @@ SECRET_KEY = 'aen#c)1$w+6dpru^y7n2*nio)=d0a*ctp0ndl&3@(=mi8q!2u3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','rocketdjango.herokuapp.com']
-
+ALLOWED_HOSTS = ['127.0.0.1','murmuring-meadow-65259.herokuapp.com']
+#test
 
 # Application definition
 
